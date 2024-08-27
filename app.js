@@ -1,0 +1,11 @@
+var userInput= prompt('write a number of which table you want?','5');
+document.write(`${userInput} x 1 =`+userInput*1+"</br>");
+document.write(`${userInput} x 2 =`+userInput*2+"</br>");
+document.write(`${userInput} x 3 =`+userInput*3+"</br>");
+document.write(`${userInput} x 4 =`+userInput*4+"</br>");
+document.write(`${userInput} x 5 =`+userInput*5+"</br>");
+document.write(`${userInput} x 6 =`+userInput*6+"</br>");
+document.write(`${userInput} x 7 =`+userInput*7+"</br>");
+document.write(`${userInput} x 8 =`+userInput*8+"</br>");
+document.write(`${userInput} x 9 =`+userInput*9+"</br>");
+document.write(`${userInput} x 10 =`+userInput*10+"</br>");
